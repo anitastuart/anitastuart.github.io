@@ -1,5 +1,6 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Sofia&display=swap');
  :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -2950,7 +2951,7 @@ textarea.form-control-lg {
 
 .btn {
   display: inline-block;
-  font-family: 'Sofia', cursive;
+  font-family: 'Macondo', cursive;
   font-weight: 800;
   line-height: 1.5;
   color: #212529;
@@ -11032,7 +11033,7 @@ blockquote {
   z-index: 1030;
   border-bottom: 1px #dee2e6;
   background-color: #fff;
-  font-family: 'Sofia', cursive;  
+  font-family: 'Macondo', cursive;  
 }
 #mainNav .navbar-brand {
   font-weight: 800;
